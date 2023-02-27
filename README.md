@@ -36,14 +36,6 @@ I'm Amen Musingarimi, a Full Stack Web Developer from Harare, Zimbabwe. I have a
 
 <!--START_SECTION:waka-->
 
-```text
-TypeScript   15 hrs 41 mins  ████████████████████▓░░░░   82.29 %
-HTML         1 hr 50 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 %
-Markdown     1 hr 27 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 %
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
-YAML         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
-```
-
 <!--END_SECTION:waka-->
 
 #### 1.1.5. Github Stats
