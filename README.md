@@ -35,7 +35,6 @@ I'm Amen Musingarimi, a Full Stack Web Developer from Harare, Zimbabwe. I have a
 #### 1.1.4. Coding Stats
 
 <!--START_SECTION:waka-->
-
 <!--END_SECTION:waka-->
 
 #### 1.1.5. Github Stats
