@@ -27,18 +27,6 @@ I'm Amen Musingarimi, a Full Stack Web Developer from Harare, Zimbabwe. I have a
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Amen-Musingarimi.Amen-Musingarimi)
 
-<details>
-<summary>
-  More stuff about me
-</summary>
-
-#### 1.1.4. Coding Stats
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 #### 1.1.5. Github Stats
 
 ![Amen's github stats](https://github-readme-stats.vercel.app/api?username=Amen-Musingarimi&count_private=true&theme=tokyonight)
-
-</details>
