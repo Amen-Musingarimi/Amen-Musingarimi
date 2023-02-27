@@ -8,7 +8,7 @@ I'm Amen Musingarimi, a Full Stack Web Developer from Harare, Zimbabwe. I have a
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently working at Microverse, a remote software development school that trains software developers
+- 🔭 I’m currently learning at Microverse, a remote software development school that trains software developers
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m open for new opportunities
 - 📫 How to reach me: takudzwamusinga@gmail.com.
@@ -18,6 +18,7 @@ I'm Amen Musingarimi, a Full Stack Web Developer from Harare, Zimbabwe. I have a
 <!-- TODO: Make technologies links takes you to repositories -->
 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Ruby Badge](https://img.shields.io/badge/-Ruby-red?style=for-the-badge&labelColor=black&logo=ruby&logoColor=red)](#) [![HTML Badge](https://img.shields.io/badge/-HTML-red?style=for-the-badge&labelColor=black&logo=html&logoColor=red)](#) [![CSS Badge](https://img.shields.io/badge/-CSS-blue?style=for-the-badge&labelColor=black&logo=css&logoColor=blue)](#)
+[![Webpack Badge](https://img.shields.io/badge/-Webpack-9cf?style=for-the-badge&labelColor=black&logo=webpack&logoColor=blue)](#)
 
 #### 1.1.1. Bizness
 
